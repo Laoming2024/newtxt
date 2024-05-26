@@ -1,0 +1,99 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "forge",
+      "version": "43.3.13"
+    }
+  ],
+  "author": "mingmingzi1232022@163.com",
+  "description": "",
+  "fileApi": "https://gitee.com/laoming2024/mods/raw/master",
+  "files": [
+    {
+      "hash": "07104e7697fc0d9dc8bb2addb252cdaf1f7a973c",
+      "path": "mods/A8.jar"
+    },
+    {
+      "hash": "e120fbcc1704fcf0e661494771ba50ffe5a43b40",
+      "path": "mods/A9.jar"
+    },
+    {
+      "hash": "55c75a37ae8ac8b2adc1d4f93f1897079af748bc",
+      "path": "mods/A15.jar"
+    },
+    {
+      "hash": "295d558c7efa08793e88cacce398bb5c4991a2b3",
+      "path": "mods/A16.jar"
+    },
+    {
+      "hash": "984d301c8e7f64ba85f46d1528917c4d95c5fd28",
+      "path": "mods/A17.jar"
+    },
+    {
+      "hash": "3d80b848c966841deeeba70305e38a29b7e3788d",
+      "path": "mods/A18.jar"
+    },
+    {
+      "hash": "aa67388e0a9d060065167f66eaf5634f61324e32",
+      "path": "mods/A19.jar"
+    },
+    {
+      "hash": "0b246b2648a2e463f243852fdd1ef8c2931da19c",
+      "path": "mods/A13.jar"
+    },
+    {
+      "hash": "24f47100c2c4b78c9ffb7e79535e4799c2e274ab",
+      "path": "mods/A14.jar"
+    },
+    {
+      "hash": "50e8eb2e6266dcdebb4e60dbc26f526ed06e636c",
+      "path": "mods/A1.jar"
+    },
+    {
+      "hash": "353b448f865d6bed7371e126275b295563fe8bbc",
+      "path": "mods/A2.jar"
+    },
+    {
+      "hash": "c0daf3672f980c4d9ed83dfbebce51b07956c5d0",
+      "path": "mods/A3.jar"
+    },
+    {
+      "hash": "98b2a6013951772ef5d1cddb602cd665268453d5",
+      "path": "mods/A4.jar"
+    },
+    {
+      "hash": "2b2545ea2e203b25d9b33be1e5b8aea38eaa90f2",
+      "path": "mods/A5.jar"
+    },
+    {
+      "hash": "4502236e8cc570b372a46e7ef8a2dfb5a2d01ddc",
+      "path": "mods/A6.jar"
+    },
+    {
+      "hash": "f628699bc411eecc341845fce5c95f71c2588d0d",
+      "path": "mods/A12.jar"
+    },
+    {
+      "hash": "84e58d3e82c1a987eb48afb4968987492c60dd0c",
+      "path": "mods/A20.jar"
+    },
+    {
+      "hash": "0f00b9164b105d78e696fa6bda421005e39b15d7",
+      "path": "mods/A10.jar"
+    },
+    {
+      "hash": "b753516b2f656e1d9e0178bc45c35c4a1b0b3e4d",
+      "path": "mods/A11.jar"
+    },
+    {
+      "hash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb",
+      "path": "mods/A7.jar"
+    }
+  ],
+  "name": "v0.02",
+  "version": "v0.02"
+}
